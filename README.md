@@ -1,15 +1,20 @@
 # Quasar App (legend-market)
 
-A Quasar Project
+RestAPI
 
 ## Install the dependencies
 ```bash
 npm install
 ```
 
-### Start the app
+### Start the frontend
 ```bash
 quasar dev
+```
+
+### Start the backend
+```bash
+nodemon src/server/app
 ```
 
 
